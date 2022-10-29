@@ -1,8 +1,11 @@
 # GitHub Blog
 
-Aplicação desenvolvida no módulo "Ignite" proposto pela RocketSeat.
+Esse é resultado do terceiro desafio do Ignite proposto pela Rocketseat.
+Neste projeto, o objetivo principal foi aplicar os conceitos de performance dentro do React e consumo de API, a qual a famosa API do GitHub fora a escolhida.
 
-🛠️ Skils: GitHub Api, TypeScript, React, Styled Components HTML, CSS
+Resumidamente, a aplicação funciona da seguinte maneira: em um input de pesquisa, o usuário digita o nome da Issue, depois a página entrega todas as Issues encontradas dentro do repositório. Por fim, cada Issue guarda o ID de seu post, a qual nos leva para uma rota dinâmica, em que, a partir do ID da Issue, todas as informações correspondentes são renderizadas em tela. 
+
+🛠️ Skils: React, TypeScript, Styled Components, GitHub API (Search e Issues), Axios, HTML e CSS.
 
 <br>
 
